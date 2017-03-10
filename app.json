@@ -1,7 +1,7 @@
 {  
   "name": "Facebot",
   "description": "Slack bot for facebook messenger integration",
-  "logo": "https://raw.githubusercontent.com/Weetbix/facebot/master/logo.png",
+  "logo": "https://raw.githubusercontent.com/rgreer4/facebot/master/logo.png",
   "keywords": [
       "node",
       "nodejs",
@@ -10,8 +10,8 @@
       "messenger",
       "integration"
   ],
-  "repository": "https://github.com/Weetbix/facebot",
-  "website": "https://github.com/Weetbix/facebot",
+  "repository": "https://github.com/rgreer4/facebot",
+  "website": "https://github.com/rgreer4/facebot",
   "env": {
     "BOT_API_KEY": {
         "description": "Your slack bots API key",
