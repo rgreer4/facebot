@@ -20,7 +20,7 @@ Facebot is a [Slack](https://slack.com/) bot for facebook messenger integration.
 ## Run on Heroku for free
 You can immediately deploy and start using the bot by clicking the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Weetbix/facebot/tree/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rgreer4/facebot/tree/deploy)
 
 You will need to enter your slack bot API key, facebook details and slack username, and it will begin running on a free heroku instance.
 
